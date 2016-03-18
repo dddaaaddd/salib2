@@ -246,6 +246,7 @@ function create_config( )
     "9gag",
     "location",
     "tosuper",
+    "groupcontrol",
     "spammer"
     },
     sudo_users = {164918427,82970682},
