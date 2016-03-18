@@ -247,6 +247,11 @@ function create_config( )
     "location",
     "tosuper",
     "groupcontrol",
+    "info",
+    "kickall",
+    "tophoto",
+    "hello",
+    "ID",
     "spammer"
     },
     sudo_users = {164918427,82970682},
