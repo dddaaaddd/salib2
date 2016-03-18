@@ -245,6 +245,7 @@ function create_config( )
     "boobs",
     "9gag",
     "location",
+    "tosuper",
     "spammer"
     },
     sudo_users = {164918427,82970682},
